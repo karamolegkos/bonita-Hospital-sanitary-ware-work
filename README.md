@@ -3,4 +3,3 @@ This is the bonita assignment for the course "Business Process Management" of th
 
 - FINAL EXAM BPMS 2019-2020.pdf: The assignment
 - HospitalManagementDiagram-2.0.bos: My answer
-- E17065.pdf: My documentation
